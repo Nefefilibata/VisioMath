@@ -1,5 +1,5 @@
 
-# VisioMath (ICLR 2026) — Benchmarking Figure-based Mathematical Reasoning in LMMs
+# VisioMath:Benchmarking Figure-based Mathematical Reasoning in LMMs (ICLR 2026) 
 
 [![Conference](https://img.shields.io/badge/ICLR-2026-blue)](#)
 
